@@ -66,7 +66,7 @@ AutoIncBuild=1
 MajorVer=1
 MinorVer=1
 Release=0
-Build=40
+Build=41
 Debug=0
 PreRelease=0
 Special=0
@@ -77,7 +77,7 @@ CodePage=936
 [Version Info Keys]
 CompanyName=伴水工作室
 FileDescription=jihu.wang@gmail.com
-FileVersion=1.1.0.40
+FileVersion=1.1.0.41
 InternalName=伴水之剑-内存剑
 LegalCopyright=伴水工作室
 LegalTrademarks=Zswang.MemoryAnalyzer

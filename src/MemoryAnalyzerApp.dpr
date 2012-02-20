@@ -12,7 +12,8 @@ uses
   ControlFunctions51 in 'ControlFunctions51.pas',
   CommonFunctions51 in 'CommonFunctions51.pas',
   StringFunctions51 in 'StringFunctions51.pas',
-  MemoryFunctions51 in 'MemoryFunctions51.pas';
+  MemoryFunctions51 in 'MemoryFunctions51.pas',
+  LovelyHex20 in 'LovelyHex20.pas';
 
 {$R *.res}
 
